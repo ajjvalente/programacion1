@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-03-29T04:41:47.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M8RMjggQdW1W4T_tbnBS" version="21.1.1" type="google">
+  <diagram name="Página-1" id="wJ2rIn_HfT-2AVNgppIj">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-1" value="INICIO&lt;br&gt;-pararse en la&amp;nbsp; primera esquina y mirar semáforo&lt;br&gt;-¿el semáforo está en verde para el peatón?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;SI&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;-cruzar calle&lt;br&gt;&amp;nbsp; &amp;nbsp; -pararse en segunda esquina y mirar&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;-¿el semaforo está en verde&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;para el peatón?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SI&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;-cruzar calle&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; FIN SI&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NO&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -seguir esperando&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; NO&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; -seguir esperando&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-2" value="Crear un algoritmo el cual realiza un peaton al cruzar dos calles utilizando el semaforo." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-3" target="Up1wEAkBH8YEqsq7y2AZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-3" value="INCIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-4" target="Up1wEAkBH8YEqsq7y2AZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-4" value="pararse en la primera esquina y mirar semáforo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-9" target="Up1wEAkBH8YEqsq7y2AZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-9" target="Up1wEAkBH8YEqsq7y2AZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-9" value="¿el semáforo, está ve verde para el peatón?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-11" target="Up1wEAkBH8YEqsq7y2AZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-11" value="cruzar calle" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-17" target="Up1wEAkBH8YEqsq7y2AZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-17" value="pararse en la segunda esquina y mirar semáforo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-18" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="targetPoint" />
+            <mxPoint x="140" y="550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="30" y="550" />
+              <mxPoint x="30" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-19" value="seguir esprando" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-23" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-26" target="Up1wEAkBH8YEqsq7y2AZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I89suRqQ_962yHqBcmbv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-26" target="I89suRqQ_962yHqBcmbv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-26" value="¿el semáforo, está ve verde para el peatón?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up1wEAkBH8YEqsq7y2AZ-28" target="Up1wEAkBH8YEqsq7y2AZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-28" value="cruzar calle" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-30" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-33" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Up1wEAkBH8YEqsq7y2AZ-39" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I89suRqQ_962yHqBcmbv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I89suRqQ_962yHqBcmbv-1" target="Up1wEAkBH8YEqsq7y2AZ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="820" />
+              <mxPoint x="370" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I89suRqQ_962yHqBcmbv-1" value="seguir esprando" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
